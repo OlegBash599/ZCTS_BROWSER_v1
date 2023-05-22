@@ -1,5 +1,5 @@
 ## Attention
-This is deprecated version of ZCTS_BROWSER (ZBC009) and is for only for archieve purposes.
+This is deprecated version of ZCTS_BROWSER (ZBC009) and is for archieve purposes only.
 
 For the latest and more reliable version of ZCTS_BROWSER are available here: https://github.com/OlegBash599/ZCTS_BROWSER
 
