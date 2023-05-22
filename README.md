@@ -1,4 +1,11 @@
-# ZCTS_BROWSER: ABAP / Python / webDynPro 
+## Attention
+This is the deprecated version of ZCTS_BROWSER (ZBC009) and is for only for archieve purposes.
+
+For the latest and more reliable version of ZCTS_BROWSER are available here: https://github.com/OlegBash599/ZCTS_BROWSER
+
+=========================================================== <BR>
+=========================================================== <BR>
+## ZCTS_BROWSER: ABAP / Python / webDynPro 
 ZCTS_BROWSER for Object Transporting
 <h2>Characteristics: </h2>
 <ol type="1">
